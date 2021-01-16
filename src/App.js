@@ -1,3 +1,4 @@
+import React from 'react';
 import Book from './book';
 import data from './data.json'; 
 
