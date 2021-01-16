@@ -1,8 +1,8 @@
 ## react-books
 Create a Book Component with React, create JSON file, statemanagement
 ## Demo
-on [CodeSandbox]()
-![react-books]()
+on [CodeSandbox](https://codesandbox.io/s/frosty-currying-mkfc2)
+![react-books](https://github.com/dianavile/react-books/blob/develop/src/img/Book.JPG)
 # Installation
 - [X] Install with ```npx create-react-app react-books```
 ## Dependencies 
