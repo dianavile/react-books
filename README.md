@@ -1,3 +1,16 @@
+## react-books
+Create a Book Component with React, create JSON file, statemanagement
+## Demo
+on [CodeSandbox](https://codesandbox.io/s/frosty-currying-mkfc2)
+![react-books](https://github.com/dianavile/react-books/blob/develop/src/img/Book.JPG)
+# Installation
+- [X] Install with ```npx create-react-app react-books```
+## Dependencies 
+- [] none 
+## Functionalities 
+- [] Install React via react-template
+- [] Create a Component, pass data from JSON file into state component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
